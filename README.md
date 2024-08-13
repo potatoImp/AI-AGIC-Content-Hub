@@ -29,4 +29,4 @@
 
 # 相关信息
 ## 芯片
-[【blog-AI计算，为什么要用GPU？】]（https://zhuanlan.zhihu.com/p/675702796)
+[【blog-AI计算，为什么要用GPU？】](https://zhuanlan.zhihu.com/p/675702796)
