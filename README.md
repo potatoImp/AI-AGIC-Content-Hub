@@ -24,3 +24,9 @@
 
 ## 语音
 [【文字、图片一键生成逼真音效，音频界AIGC来了】](https://arxiv.org/abs/2301.12661) [[论文]](https://text-to-audio.github.io/paper.pdf) [[demo]](https://text-to-audio.github.io/) [[github]](https://github.com/Text-to-Audio/Make-An-Audio) 
+
+
+
+# 相关信息
+## 芯片
+[【blog-AI计算，为什么要用GPU？】]（https://zhuanlan.zhihu.com/p/675702796)
