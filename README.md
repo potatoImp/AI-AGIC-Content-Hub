@@ -27,6 +27,9 @@
 
 ## 智能体
 
+[【复旦大学 全面梳理了基于大型语言模型的智能代理现状（一文纵览AI智能体的现状与未来）】](https://arxiv.org/abs/2309.07864) [[github]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+
+
 [【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
 
 [【字节跳动 国内版 扣子 coze】](https://www.coze.cn)  [[官方文档]](https://www.coze.cn/docs/guides/quickstart)
