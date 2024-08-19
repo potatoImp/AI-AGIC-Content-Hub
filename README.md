@@ -27,6 +27,12 @@
 
 ## 智能体
 
+[【字节跳动 国外版 扣子 coze】](https://www.coze.com) [[官方文档]](https://www.coze.com/docs/guides/quickstart)
+[【字节跳动 国内版 扣子 coze】](https://www.coze.cn) [[官方文档]](https://www.coze.cn/docs/guides/quickstart)
+
+[【文心一言 agentbuilder】](https://agents.baidu.com/docs/intelligent-agent/zero_code_develop/)
+
+
 
 # 相关信息
 ## 芯片
