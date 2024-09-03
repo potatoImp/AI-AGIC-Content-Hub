@@ -41,7 +41,7 @@
 [【文心一言 agentbuilder】](https://agents.baidu.com)  [[官方文档]](https://agents.baidu.com/docs/intelligent-agent/zero_code_develop/)
 
 ## 图像生成
-[【，Midjourney 目前付费 AI 图像生成服务的领导者】](https://www.midjourney.com/)  [[官方文档]](https://docs.midjourney.com/)
+[【Midjourney 目前付费 AI 图像生成服务的领导者】](https://www.midjourney.com/)  [[官方文档]](https://docs.midjourney.com/)
 
 [【谷歌出身建立，Midjourney遇劲敌 Ideogram（每日免费生成40图）】](https://ideogram.ai/t/explore)  [[官方文档]](https://docs.ideogram.ai/)
 
