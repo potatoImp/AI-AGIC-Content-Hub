@@ -22,6 +22,10 @@
 
 # 行业应用
 
+## 文本检测
+
+[【人工智能生成的文本能被稳定检测出来吗】](https://arxiv.org/pdf/2303.11156) [[论文]](https://arxiv.org/pdf/2303.11156) 
+
 ## 语音
 [【文字、图片一键生成逼真音效，音频界AIGC来了】](https://arxiv.org/abs/2301.12661) [[论文]](https://text-to-audio.github.io/paper.pdf) [[demo]](https://text-to-audio.github.io/) [[github]](https://github.com/Text-to-Audio/Make-An-Audio) 
 
