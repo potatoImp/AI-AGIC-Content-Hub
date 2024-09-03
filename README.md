@@ -46,8 +46,15 @@
 [【谷歌出身建立，Midjourney劲敌  Ideogram （每日免费生成40图）】](https://ideogram.ai/t/explore)  [[官方文档]](https://docs.ideogram.ai/)
 
 
+# 上手调试
+
+## 低配置
+[【非十科技 JittorLLMs 计图大模型推理库 - 笔记本没有显卡也能跑大模型】](https://github.com/Jittor/JittorLLMs/)  [github](https://github.com/Jittor/JittorLLMs/) [[官方文档，只能国内访问]](https://cg.cs.tsinghua.edu.cn/jittor/assets/docs/index.html)
+
 
 # 相关信息
 ## 芯片
 ### blog
 [【AI计算，为什么要用GPU？】](https://zhuanlan.zhihu.com/p/675702796)
+
+
