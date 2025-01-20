@@ -50,11 +50,11 @@
 
 [【Windsurf Codeium AI代码编译器】](https://codeium.com/windsurf)  [[官方文档]](https://docs.codeium.com/getstarted/overview)
 
-采用了AI Flow范式，实现文件系统管理（自动创建，修改，删除文件及目录等），集成命令行系统，自动调用命令行（运行、安装依赖工具，调试等），自动补全代码以及提供对话框
+可以选择openai、Gemma等大模型,采用了AI Flow范式，实现文件系统管理（自动创建，修改，删除文件及目录等），集成命令行系统，自动调用命令行（运行、安装依赖工具，调试等），自动补全代码以及提供对话框
 
 [【Cursor AI代码编译器（最早推出的）】](https://www.cursor.com/)  [[官方文档]](https://docs.cursor.com/context/@-symbols/@-docs)
 
-集成了openai，优秀而强大的代码生成器，可以帮助你快速编写、编辑和讨论代码。
+集成了openai等多种llm，优秀而强大的代码生成器，可以帮助你快速编写、编辑和讨论代码。
 
 # 上手调试
 
